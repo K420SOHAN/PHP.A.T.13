@@ -1,12 +1,18 @@
+.TextCenter{
+    text-align: center;
+}
 .Name{
     text-align: center;
+    margin: 10px;
 }
 .menu {
     display: flex;
     list-style: none;
     justify-content: center;
+    margin: 10px;
 }
 .menu a{
     text-decoration: none;
     color: #000;
+    padding: 10px 20px;
 }
