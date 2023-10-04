@@ -1,0 +1,12 @@
+.Name{
+    text-align: center;
+}
+.menu {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+.menu a{
+    text-decoration: none;
+    color: #000;
+}
